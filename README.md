@@ -4,4 +4,4 @@
 
 ## React
 
-[환경설정가이드](https://ryurim.tistory.com/16)
+*[환경설정가이드](https://ryurim.tistory.com/16)
