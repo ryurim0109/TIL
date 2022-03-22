@@ -1,3 +1,7 @@
-## TIL
+# Today I Learned(TIL) Wiki
 
-오늘 내가 배운 것.
+[![Blog](https://img.shields.io/badge/Blog-ryurim.tistory.com-yellow.svg)](https://ryurim.tistory.com/)
+
+## React
+
+[환경설정가이드](https://ryurim.tistory.com/16)
