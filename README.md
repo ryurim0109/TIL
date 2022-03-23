@@ -14,4 +14,5 @@
 * [서버와 클라이언트](https://github.com/ryurim0109/TIL/blob/main/react/severClient.md)
 * [리액트기초반강의1주차~3주차](https://ryurim.tistory.com/19)
 * [리액트기초반강의4주차~5주차](https://ryurim.tistory.com/24)
+* [Component,state,props](https://github.com/ryurim0109/TIL/blob/main/react/component.md)
 
