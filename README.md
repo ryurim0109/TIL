@@ -8,6 +8,7 @@
 * [생성자함수](https://github.com/ryurim0109/TIL/blob/main/javascript/new.md)
 * [객체 메소드와 계산된 프로퍼티](https://github.com/ryurim0109/TIL/blob/main/javascript/object_methods.md)
 * [심볼](https://github.com/ryurim0109/TIL/blob/main/javascript/symbol.md)
+* [Number, Math](https://github.com/ryurim0109/TIL/blob/main/javascript/math.md)
 * [배열과 유사배열](https://github.com/ryurim0109/TIL/blob/main/javascript/array.md)
 
 ## React
