@@ -4,6 +4,7 @@
 
 ## Javascript
 
+* [변수](https://github.com/ryurim0109/TIL/blob/main/javascript/variable.md)
 * [배열과 유사배열](https://github.com/ryurim0109/TIL/blob/main/javascript/array.md)
 
 ## React
