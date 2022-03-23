@@ -30,7 +30,7 @@ let name ="riri";
 console.log(name); //error
 ```
 
-# const 
+## const 
 - 선언 + 초기화 + 할당단계 한번에 생성됨.
 - 값을 변경할 수 없다.
 - 블록 스코프
