@@ -10,6 +10,7 @@
 * [심볼](https://github.com/ryurim0109/TIL/blob/main/javascript/symbol.md)
 * [Number, Math](https://github.com/ryurim0109/TIL/blob/main/javascript/math.md)
 * [문자열 메소드](https://github.com/ryurim0109/TIL/blob/main/javascript/string.md)
+* [배열 메소드](https://github.com/ryurim0109/TIL/blob/main/javascript/array1.md)
 * [배열과 유사배열](https://github.com/ryurim0109/TIL/blob/main/javascript/array.md)
 
 ## React
