@@ -2,7 +2,7 @@
 
 ### 계산된 프로퍼티 (Computed property)
 
-```
+```javascript
 let a ='age';
 const user ={
     name: 'yurim',
@@ -13,12 +13,12 @@ const user ={
 
 - Object.assign()
     - 객체를 복제할 수 있다.
-    ```
+    ```javascript
      const newUser = Object.assign({초기값},user)
     ```
 - Object.keys()
     - 키 배열로 반환한다.
-    ```
+    ```javascript
     const user ={
         name: 'JH',
         age: 38,
@@ -28,7 +28,7 @@ const user ={
     ```
 - Object.values()
     - 값 배열로 반환한다.
-        ```
+        ```javascript
         const user ={
             name: 'JH',
             age: 38,
@@ -38,7 +38,7 @@ const user ={
         ```
 - Object.entries()
     - 키/값을 배열로 반환한다.
-        ```
+        ```javascript
         const user ={
             name: 'JH',
             age: 38,
@@ -53,7 +53,7 @@ const user ={
         ```
 - Object.fromEntries()
     - 키/값 배열을 객체로 반환한다.
-        ```
+        ```javascript
         const arr =[
             ["name","JH"],
             ["age": 38],

@@ -3,14 +3,14 @@
 - 생성자 함수는 new 연산자를 이용해 객체를 생성한다.
 - 보통 첫글자를 대문자로 함수를 작성한다.
 
-```
+```javascript
 let user ={
     name:"yurim",
     age:28,
 }
 ```
 
-```
+```javascript
 function User(name,age){
     //this ={} 코드 작성하지 않아도, 알고리즘이 실행해준다.
     this.name =name;

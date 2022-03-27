@@ -8,7 +8,7 @@
 - arr.splice(n,m,x) :특정 요소 지움
     - n은 시작 m은 개수 x은 추가요소
 
-```
+```javascript
 let arr =[1,2,3,4,5]
 arr.splice(1,2); // [1,4,5]
 arr.splice(1,3,100,200); // [1,100,200,5]
@@ -18,28 +18,28 @@ arr2.splice(1,0,"28살","여자"); // ["나는","28살","여자","유림"]
 ```
 - arr.splice() :삭제된 요소 반환
 
-```
+```javascript
 let arr =[1,2,3,4,5];
 let result = arr.splice(1,2); // [2,3]
 
 ```
 - arr.slice(n,m) :n부터 m까지 반환
 
-```
+```javascript
 let arr =[1,2,3,4,5];
 arr.splice(1,4); // [2,3,4]
 
 ```
 - arr.concat(arr1,arr3 ..) :합쳐서 새배열 반환
 
-```
+```javascript
 let arr =[1,2];
 arr.concat(3,4); // [1,2,3,4]
 
 ```
 - arr.forEach(fn) :배열 반복
 
-```
+```javascript
 let users =["riri", "JH", "yurim"];
 
 users.forEach((item,index,arr)=> {
@@ -51,20 +51,20 @@ users.forEach((item,index,arr)=> {
 
 ```
 - arr.indexOf / arr.lastIndexOf
-```
+```javascript
 let arr = [1,2,3,4,5,1,2,3];
 arr.indexOf(3) //2
 arr.indexOf(3,3) //7 3부터 시작
 arr.lastIndexOf(3) //7
 ```
 - arr.includes() : 포함하는지 확인
-```
+```javascript
 let arr = [1,2,3];
 arr.includes(2); //true
 arr.includes(8); //false
 ```
 - arr.find(fn) / arr.findIndex(fn) : 첫번째 true값만 반환하고 끝 만약 없으면 undefined를 반환
-```
+```javascript
 let arr = [
     {name: "j", age: 20},
     {name: "Y", age: 18},
@@ -80,7 +80,7 @@ console.log(result);
 //{name: "Y", age: 18}
 ```
 - arr.filter(fn) : 만족하는 모든 요소를 배열로 반환
-```
+```javascript
 let arr = [1,2,3,4,5];
 const result=arr.filter((item)=>{
     return item % 2 ===0;
@@ -89,13 +89,13 @@ console.log(result);
 //[2,4]
 ```
 - arr.reverse() : 역순으로 재정렬
-```
+```javascript
 let arr = [1,2,3,4,5];
 arr.reverse(); // [5,4,3,2,1]
 ```
 
 - arr.map(fn) :함수를 받아 특정 기능을 시행하고 새로운 배열을 반환
-```
+```javascript
 let arr = [
     {name: "j", age: 20},
     {name: "Y", age: 18},
@@ -114,3 +114,10 @@ console.log(newUser);
 //{name: "r", age: 22, isAdult: true}
 ```
 - Array.isArray() :배열인지 아닌지 확인해줌 false, true
+
+- arr.sort() 배열 재정렬 (배열 자체가 변경되니 주의)
+```javascript
+let  arr =[1,5,4,2,3];
+arr.sort();
+console.log(arr); // [1,2,3,4,5]
+```

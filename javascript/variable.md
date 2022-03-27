@@ -11,7 +11,7 @@
 - 선언및 초기화 단계 => 할당 단계
 - 함수 스코프
 - 현재 사용권장 ❌
-```
+```javascript
 var name ="yurim";
 console.log(name); //yurim
 var name ="riri";
@@ -23,7 +23,7 @@ console.log(name); //riri
 - 값을 변경할 수 있다.
 - 선언단계 => 초기화 단계 => 할당 단계
 - 블록 스코프
-```
+```javascript
 let name ="yurim";
 console.log(name); //yurim
 let name ="riri";
