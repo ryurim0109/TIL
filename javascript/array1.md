@@ -116,8 +116,44 @@ console.log(newUser);
 - Array.isArray() :배열인지 아닌지 확인해줌 false, true
 
 - arr.sort() 배열 재정렬 (배열 자체가 변경되니 주의)
+    - Lodash를 많이 사용한다고 함 ! 
+    - [로데쉬 링크 click 🤪](https://lodash.com/)
 ```javascript
 let  arr =[1,5,4,2,3];
 arr.sort();
 console.log(arr); // [1,2,3,4,5]
+
+let  arr2 =[27, 8, 5, 13];
+arr.sort();
+console.log(arr2); // [13,27,5,8];
+//이상하게 정렬됨. 아래와 같이 작성해줘야됨.
+
+let  arr2 =[27, 8, 5, 13];
+
+arr2.sort((a,b) => {
+    return a - b;
+});
+console.log(arr2); // [5,8,13,27,];
+
+```
+- arr.reduce() 인수로 함수를 받음
+    - (누적 계산값, 현재값) => { return 계산값}
+```javascript
+// 배열의 모든 수 합치기
+let arr =[1,2,3,4,5]; 
+
+let result = 0;
+arr.forEach(num => {
+    result +=num;
+});
+console.log(result); //15
+//위의 작업을 한번에 처리 해줄 수 있는 것이 reduce이다.
+
+let arr =[1,2,3,4,5]; 
+
+let result = arr.reduce((prev, cur)=>{
+    return prev + cur;
+}, 0);
+console.log(result); //15
+
 ```
