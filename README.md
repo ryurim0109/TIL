@@ -12,6 +12,7 @@
 * [문자열 메소드](https://github.com/ryurim0109/TIL/blob/main/javascript/string.md)
 * [배열 메소드](https://github.com/ryurim0109/TIL/blob/main/javascript/array1.md)
 * [배열과 유사배열](https://github.com/ryurim0109/TIL/blob/main/javascript/array.md)
+* [구조분해할당](https://github.com/ryurim0109/TIL/blob/main/javascript/destructuringassignment.md)
 
 ## React
 
