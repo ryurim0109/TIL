@@ -13,6 +13,8 @@
 * [배열 메소드](https://github.com/ryurim0109/TIL/blob/main/javascript/array1.md)
 * [배열과 유사배열](https://github.com/ryurim0109/TIL/blob/main/javascript/array.md)
 * [구조분해할당](https://github.com/ryurim0109/TIL/blob/main/javascript/destructurin_gassignment.md)
+* [클로저](https://github.com/ryurim0109/TIL/blob/main/javascript/closure.md)
+* [setTimout / setInterval](https://github.com/ryurim0109/TIL/blob/main/javascript/set.md)
 * [나머지 매개변수,전개구문](https://github.com/ryurim0109/TIL/blob/main/javascript/rest_parameters.md)
 
 ## React
