@@ -17,6 +17,7 @@
 * [setTimout / setInterval](https://github.com/ryurim0109/TIL/blob/main/javascript/set.md)
 * [나머지 매개변수,전개구문](https://github.com/ryurim0109/TIL/blob/main/javascript/rest_parameters.md)
 * [call, apply, bind](https://github.com/ryurim0109/TIL/blob/main/javascript/call_apply_bind.md)
+* [상속,프로토타입](https://github.com/ryurim0109/TIL/blob/main/javascript/prototype.md)
 
 ## React
 
