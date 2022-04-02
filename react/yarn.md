@@ -46,6 +46,14 @@ yarn add firebase
 yarn add redux-thunk
 ```
 
+### <yarn 으로 로그인할 때 설치해야될 리덕스>
+- 이건 리덕스와 리덕스 모듈 내에서 경로 이동까지 하게 해줄 히스토리, 
+- 라우터와 히스토리를 엮어줄 모듈까지 한번에 설치.
+
+```
+yarn add redux react-redux redux-thunk redux-logger history@4.10.1 connected-react-router@6.8.0
+```
+
 #### <yarn으로  배포할 때>
 
 ```
