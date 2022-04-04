@@ -58,11 +58,19 @@ yarn add redux react-redux redux-thunk redux-logger history@4.10.1 connected-rea
 yarn add immer redux-actions
 ```
 
+### <yarn 으로 moment 패키지 설치>
+- 날짜, 시각 객체를 편히 다루기 위한 패키지
+
+```
+yarn add moment
+```
+
 #### <yarn으로  배포할 때>
 
 ```
 yarn build
 ```
+
 #### <파이어베이스로 배포할 때>
 
 ```
