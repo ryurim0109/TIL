@@ -95,3 +95,9 @@ yarn build
 yarn firebase deploy
 ```
 - 입력하면 배포 끝 ~
+
+#### <Pre-rendering 최적화 검진엔진이 필요할 때>
+-  react-snap
+```
+yarn add --dev react-snap
+```
