@@ -101,3 +101,8 @@ yarn firebase deploy
 ```
 yarn add --dev react-snap
 ```
+
+#### <HTTP 비동기 통신 라이브러리 axios>
+```
+yarn add axios
+```
