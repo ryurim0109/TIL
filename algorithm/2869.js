@@ -1,4 +1,4 @@
-let input = require('fs').readFileSync('/test.txt').toString().split(' ');
+let input = require('fs').readFileSync('./test.txt').toString().split(' ');
 
 
 const a =input[0]
