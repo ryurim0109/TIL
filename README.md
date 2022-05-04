@@ -33,3 +33,4 @@
 
 * [달팽이는 올라가고싶다](https://github.com/ryurim0109/TIL/blob/main/algorithm/2869.js)
 * [ACM호텔](https://github.com/ryurim0109/TIL/blob/main/algorithm/10250.js)
+* [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
