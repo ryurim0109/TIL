@@ -35,3 +35,6 @@
 * [ACM호텔](https://github.com/ryurim0109/TIL/blob/main/algorithm/10250.js)
 * [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
 * [더하기사이클](https://github.com/ryurim0109/TIL/blob/main/algorithm/1110.js)
+
+## CS
+* [브라우저에 ‘naver.com’을 입력하면 내부적으로 어떤 일](https://github.com/ryurim0109/TIL/blob/main/CS/browser.md)
