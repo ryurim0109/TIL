@@ -28,6 +28,7 @@
 * [리액트기초반강의1주차~3주차](https://ryurim.tistory.com/19)
 * [리액트기초반강의4주차~5주차](https://ryurim.tistory.com/24)
 * [Component,state,props](https://github.com/ryurim0109/TIL/blob/main/react/component.md)
+* [SPA](https://github.com/ryurim0109/TIL/blob/main/react/SPA.md)
 
 ## algorithm
 
@@ -40,3 +41,4 @@
 * [브라우저에 ‘naver.com’을 입력하면 내부적으로 어떤 일](https://github.com/ryurim0109/TIL/blob/main/CS/browser.md)
 * [웹 브라우저 공격](https://github.com/ryurim0109/TIL/blob/main/CS/browserAttack.md)
 * [RESTful](https://github.com/ryurim0109/TIL/blob/main/CS/Restful.md)
+* [CSR vs SSR](https://github.com/ryurim0109/TIL/blob/main/CS/CSR_vs_SSR.md)
