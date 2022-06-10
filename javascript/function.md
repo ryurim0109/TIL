@@ -76,7 +76,80 @@ const hello = () => {
   //...
 }
 ```
-- constructor로 쓰일 수 없다.
-- prototype을 가지고 있지 않는다.
-- yield 키워드를 허용하지 않으므로 generator를 쓸 수 없다.
-- this도 다르다.
+- this나 super에 대한 바인딩이 없고, methods 로 사용될 수 없습니다.
+- new.target키워드가 없습니다.
+- 일반적으로 스코프를 지정할 때 사용하는 call, apply, bind methods를 이용할 수 없습니다.
+- 생성자(Constructor)로 사용할 수 없습니다.
+- yield를 화살표 함수 내부에서 사용할 수 없습니다.
+- 익명 함수로 참조할 이름이 필요하다면 함수를 변수에 할당하면 됩니다.
+
+### 🍄 화살표 함수에서 this키워드
+
+- 화살표 함수내부에서 this 키워드를 사용할 때는 일반 함수와 다르게 동작하므로 주의해야됩니다.
+- 화살표 함수를 사용할 때 this 키워드는 상위 스코프에서 상속됩니다.
+#### 🌱 HTML
+```HTML
+<div class="box open">
+    This is box
+</div>
+```
+#### 🌱 CSS
+```css
+.opening{
+    background-color:red;
+}
+```
+#### 🌱 JS
+```javascript
+const box =document.querySelector(".box");
+//box클래스를 가진 div를 가져옵니다.
+box.addEventListener("click", function(){
+//click 이벤트 핸들러를 등록
+    this.classList.toggle("opening");
+    //div에 opening클래스를 토글
+    setTimeout(function(){
+        this.classList.toggle("opening");
+        //클래스를 다시 토글
+    },500);
+});
+```
+- 위의 코드의 문제는 첫 번째 this가 const box에 할당되었지만 setTimeout내부의 두 번째 this는 Window객체로 설정되어 "Uncaught TypeError" 오류가  발생합니다.
+
+```javascript
+const box =document.querySelector(".box");
+//box클래스를 가진 div를 가져옵니다.
+box.addEventListener("click", function(){
+//click 이벤트 핸들러를 등록
+    this.classList.toggle("opening");
+    //div에 opening클래스를 토글
+    setTimeout(()=>{
+        this.classList.toggle("opening");
+        //클래스를 다시 토글
+    },500);
+});
+```
+- 위와 같이 일반 함수를 화살표 함수로 바꿔주면, 두 번째 this는 부모로부터 상속되며 const box로 설정됩니다. 
+
+#### 🍄 arguments객체에 대한 접근방식
+- 일반 함수와 화살표 함수의 또 다른 차이점은 arguments객체에 대한 접근방식 입니다.
+- arguments객체는 함수 내부에서 접근할 수 있는 배열 객체이며 해당 함수에 전달된 인수의 값을 담고 있다.
+
+```javascript
+const showWinner=()=>{
+    const winner =arguments[0];
+    console.log(`${winner} was the winner`);
+};
+showWinner("riri","uu","H");
+```
+-  이 코드는 ReferenceError : arguments is not defined.라는 오류를 반환합니다. 
+- 함수에 전달된 모든 인수에 접근하려면, 기존 함수 표기법이나 스프레드 문법을 사용하면 됩니다.
+
+```javascript
+const showWinner=(...arg)=>{
+    const winner =arg[0];
+    console.log(`${winner} was the winner`);
+};
+showWinner("riri","uu","H");
+//riri was the winner
+```
+- 위와 같은 코드로 해결할 수 있다.
