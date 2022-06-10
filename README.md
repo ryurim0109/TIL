@@ -2,6 +2,12 @@
 
 [![Blog](https://img.shields.io/badge/Blog-ryurim.tistory.com-yellow.svg)](https://ryurim.tistory.com/)
 
+## CS
+* [브라우저에 ‘naver.com’을 입력하면 내부적으로 어떤 일](https://github.com/ryurim0109/TIL/blob/main/CS/browser.md)
+* [웹 브라우저 공격](https://github.com/ryurim0109/TIL/blob/main/CS/browserAttack.md)
+* [RESTful](https://github.com/ryurim0109/TIL/blob/main/CS/Restful.md)
+* [CSR vs SSR](https://github.com/ryurim0109/TIL/blob/main/CS/CSR_vs_SSR.md)
+
 ## Javascript
 
 * [변수](https://github.com/ryurim0109/TIL/blob/main/javascript/variable.md)
@@ -38,8 +44,3 @@
 * [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
 * [더하기사이클](https://github.com/ryurim0109/TIL/blob/main/algorithm/1110.js)
 
-## CS
-* [브라우저에 ‘naver.com’을 입력하면 내부적으로 어떤 일](https://github.com/ryurim0109/TIL/blob/main/CS/browser.md)
-* [웹 브라우저 공격](https://github.com/ryurim0109/TIL/blob/main/CS/browserAttack.md)
-* [RESTful](https://github.com/ryurim0109/TIL/blob/main/CS/Restful.md)
-* [CSR vs SSR](https://github.com/ryurim0109/TIL/blob/main/CS/CSR_vs_SSR.md)
