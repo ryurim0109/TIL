@@ -37,6 +37,7 @@
 * [Component,state,props](https://github.com/ryurim0109/TIL/blob/main/react/component.md)
 * [SPA](https://github.com/ryurim0109/TIL/blob/main/react/SPA.md)
 * [Context API vs Redux](https://github.com/ryurim0109/TIL/blob/main/react/Context_vs_Redux.md)
+* [브라우저 렌더링 과정](https://github.com/ryurim0109/TIL/blob/main/react/browserRander.md)
 
 ## algorithm
 
