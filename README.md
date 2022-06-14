@@ -25,6 +25,8 @@
 * [나머지 매개변수,전개구문](https://github.com/ryurim0109/TIL/blob/main/javascript/rest_parameters.md)
 * [call, apply, bind](https://github.com/ryurim0109/TIL/blob/main/javascript/call_apply_bind.md)
 * [상속,프로토타입](https://github.com/ryurim0109/TIL/blob/main/javascript/prototype.md)
+* [브라우저 렌더링 과정](https://github.com/ryurim0109/TIL/blob/main/javascript/browserRander.md)
+* [이벤트 전파](https://github.com/ryurim0109/TIL/blob/main/javascript/event.md)
 
 ## React
 
@@ -37,7 +39,7 @@
 * [Component,state,props](https://github.com/ryurim0109/TIL/blob/main/react/component.md)
 * [SPA](https://github.com/ryurim0109/TIL/blob/main/react/SPA.md)
 * [Context API vs Redux](https://github.com/ryurim0109/TIL/blob/main/react/Context_vs_Redux.md)
-* [브라우저 렌더링 과정](https://github.com/ryurim0109/TIL/blob/main/react/browserRander.md)
+
 
 ## algorithm
 
