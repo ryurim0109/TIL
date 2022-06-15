@@ -27,7 +27,7 @@
 * [상속,프로토타입](https://github.com/ryurim0109/TIL/blob/main/javascript/prototype.md)
 * [브라우저 렌더링 과정](https://github.com/ryurim0109/TIL/blob/main/javascript/browserRander.md)
 * [이벤트 전파](https://github.com/ryurim0109/TIL/blob/main/javascript/event.md)
-*[Intersection Observer API](https://github.com/ryurim0109/TIL/blob/main/javascript/Intersection.md)
+* [Intersection Observer API](https://github.com/ryurim0109/TIL/blob/main/javascript/Intersection.md)
 
 ## React
 
