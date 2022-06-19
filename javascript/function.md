@@ -132,7 +132,7 @@ box.addEventListener("click", function(){
 
 #### 🍄 arguments객체에 대한 접근방식
 - 일반 함수와 화살표 함수의 또 다른 차이점은 arguments객체에 대한 접근방식 입니다.
-- arguments객체는 함수 내부에서 접근할 수 있는 배열 객체이며 해당 함수에 전달된 인수의 값을 담고 있다.
+- arguments객체는 함수 내부에서 접근할 수 있는 배열 객체이며 해당 함수에 전달된 인수의 값을 담고 있습니다.
 
 ```javascript
 const showWinner=()=>{
@@ -152,4 +152,4 @@ const showWinner=(...arg)=>{
 showWinner("riri","uu","H");
 //riri was the winner
 ```
-- 위와 같은 코드로 해결할 수 있다.
+- 위와 같은 코드로 해결할 수 있습니다.
