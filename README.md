@@ -30,6 +30,7 @@
 * [이벤트 전파](https://github.com/ryurim0109/TIL/blob/main/javascript/event.md)
 * [Intersection Observer API](https://github.com/ryurim0109/TIL/blob/main/javascript/Intersection.md)
 * [웹팩](https://github.com/ryurim0109/TIL/blob/main/javascript/webpack.md)
+* [스레드](https://github.com/ryurim0109/TIL/blob/main/javascript/thread.md)
 ## React
 
 * [환경설정가이드](https://ryurim.tistory.com/16)
