@@ -52,4 +52,5 @@
 * [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
 * [더하기사이클](https://github.com/ryurim0109/TIL/blob/main/algorithm/1110.js)
 * [최대공약수와 최소공배수](https://github.com/ryurim0109/TIL/blob/main/algorithm/gcd_lcm.js)
+* [K번째수](https://github.com/ryurim0109/TIL/blob/main/algorithm/kth.js)
 
