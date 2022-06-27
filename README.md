@@ -54,4 +54,5 @@
 * [최대공약수와 최소공배수](https://github.com/ryurim0109/TIL/blob/main/algorithm/gcd_lcm.js)
 * [K번째수](https://github.com/ryurim0109/TIL/blob/main/algorithm/kth.js)
 * [예산](https://github.com/ryurim0109/TIL/blob/main/algorithm/budget.js)
+* [나머지 1이 되는 수](https://github.com/ryurim0109/TIL/blob/main/algorithm/remainder.js)
 
