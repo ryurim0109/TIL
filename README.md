@@ -55,4 +55,5 @@
 * [K번째수](https://github.com/ryurim0109/TIL/blob/main/algorithm/kth.js)
 * [예산](https://github.com/ryurim0109/TIL/blob/main/algorithm/budget.js)
 * [나머지 1이 되는 수](https://github.com/ryurim0109/TIL/blob/main/algorithm/remainder.js)
+* [소수찾기](https://github.com/ryurim0109/TIL/blob/main/algorithm/decimal.js)
 
