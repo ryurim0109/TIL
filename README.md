@@ -64,4 +64,5 @@
 * [나머지 1이 되는 수](https://github.com/ryurim0109/TIL/blob/main/algorithm/remainder.js)
 * [소수찾기](https://github.com/ryurim0109/TIL/blob/main/algorithm/decimal.js)
 * [실패율](https://github.com/ryurim0109/TIL/blob/main/algorithm/failure_rate.js)
+* [체육복](https://github.com/ryurim0109/TIL/blob/main/algorithm/workout_clothes.js)
 
