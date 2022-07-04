@@ -34,6 +34,11 @@
 * [스레드](https://github.com/ryurim0109/TIL/blob/main/javascript/thread.md)
 * [런타임 vs 컴파일 타임](https://github.com/ryurim0109/TIL/blob/main/javascript/runtime_vs_compiletime.md)
 * [동기와 비동기](https://github.com/ryurim0109/TIL/blob/main/javascript/sync.md)
+
+## typescript
+
+* [타입](https://github.com/ryurim0109/TIL/blob/main/typescript/type.md)
+
 ## React
 
 * [환경설정가이드](https://ryurim.tistory.com/16)
