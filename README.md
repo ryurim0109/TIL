@@ -40,6 +40,7 @@
 * [타입](https://github.com/ryurim0109/TIL/blob/main/typescript/type.md)
 * [인터페이스](https://github.com/ryurim0109/TIL/blob/main/typescript/interface.md)
 * [리터럴 유니온 교차 타입](https://github.com/ryurim0109/TIL/blob/main/typescript/union.md)
+* [제네릭](https://github.com/ryurim0109/TIL/blob/main/typescript/generic.md)
 
 ## React
 
