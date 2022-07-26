@@ -57,7 +57,7 @@
 
 ## algorithm
 
-- [스택과 큐](https://github.com/ryurim0109/TIL/blob/main/algorithm/2869.js)
+- [스택과 큐](https://github.com/ryurim0109/TIL/blob/main/algorithm/stack_queue.md)
 - [달팽이는 올라가고싶다](https://github.com/ryurim0109/TIL/blob/main/algorithm/2869.js)
 - [ACM호텔](https://github.com/ryurim0109/TIL/blob/main/algorithm/10250.js)
 - [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
@@ -74,6 +74,7 @@
 - [숫자 문자열과 영단어](https://github.com/ryurim0109/TIL/blob/main/algorithm/number_string.js)
 - [신고결과받기](https://github.com/ryurim0109/TIL/blob/main/algorithm/report_result.js)
 - [신규 아이디 추천](https://github.com/ryurim0109/TIL/blob/main/algorithm/newId.js)
+
 * [달팽이는 올라가고싶다](https://github.com/ryurim0109/TIL/blob/main/algorithm/2869.js)
 * [ACM호텔](https://github.com/ryurim0109/TIL/blob/main/algorithm/10250.js)
 * [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
@@ -91,4 +92,3 @@
 * [신고결과받기](https://github.com/ryurim0109/TIL/blob/main/algorithm/report_result.js)
 * [피보나치수](https://github.com/ryurim0109/TIL/blob/main/algorithm/fibonacci.js)
 * [신규 아이디 추천](https://github.com/ryurim0109/TIL/blob/main/algorithm/newId.js)
-
