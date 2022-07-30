@@ -58,6 +58,9 @@
 ## algorithm
 
 - [스택과 큐](https://github.com/ryurim0109/TIL/blob/main/algorithm/stack_queue.md)
+
+## algorithm test
+
 - [달팽이는 올라가고싶다](https://github.com/ryurim0109/TIL/blob/main/algorithm/2869.js)
 - [ACM호텔](https://github.com/ryurim0109/TIL/blob/main/algorithm/10250.js)
 - [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
@@ -73,22 +76,6 @@
 - [1차 다트게임](https://github.com/ryurim0109/TIL/blob/main/algorithm/1st_dartgame.js)
 - [숫자 문자열과 영단어](https://github.com/ryurim0109/TIL/blob/main/algorithm/number_string.js)
 - [신고결과받기](https://github.com/ryurim0109/TIL/blob/main/algorithm/report_result.js)
+- [피보나치수](https://github.com/ryurim0109/TIL/blob/main/algorithm/fibonacci.js)
 - [신규 아이디 추천](https://github.com/ryurim0109/TIL/blob/main/algorithm/newId.js)
-
-* [달팽이는 올라가고싶다](https://github.com/ryurim0109/TIL/blob/main/algorithm/2869.js)
-* [ACM호텔](https://github.com/ryurim0109/TIL/blob/main/algorithm/10250.js)
-* [소수구하기](https://github.com/ryurim0109/TIL/blob/main/algorithm/1929.js)
-* [더하기사이클](https://github.com/ryurim0109/TIL/blob/main/algorithm/1110.js)
-* [최대공약수와 최소공배수](https://github.com/ryurim0109/TIL/blob/main/algorithm/gcd_lcm.js)
-* [K번째수](https://github.com/ryurim0109/TIL/blob/main/algorithm/kth.js)
-* [예산](https://github.com/ryurim0109/TIL/blob/main/algorithm/budget.js)
-* [나머지 1이 되는 수](https://github.com/ryurim0109/TIL/blob/main/algorithm/remainder.js)
-* [소수찾기](https://github.com/ryurim0109/TIL/blob/main/algorithm/decimal.js)
-* [실패율](https://github.com/ryurim0109/TIL/blob/main/algorithm/failure_rate.js)
-* [체육복](https://github.com/ryurim0109/TIL/blob/main/algorithm/workout_clothes.js)
-* [약수의 개수와 덧셈](https://github.com/ryurim0109/TIL/blob/main/algorithm/divisor_length_sum.js)
-* [1차 다트게임](https://github.com/ryurim0109/TIL/blob/main/algorithm/1st_dartgame.js)
-* [숫자 문자열과 영단어](https://github.com/ryurim0109/TIL/blob/main/algorithm/number_string.js)
-* [신고결과받기](https://github.com/ryurim0109/TIL/blob/main/algorithm/report_result.js)
-* [피보나치수](https://github.com/ryurim0109/TIL/blob/main/algorithm/fibonacci.js)
-* [신규 아이디 추천](https://github.com/ryurim0109/TIL/blob/main/algorithm/newId.js)
+- [trapping-rain-water](https://github.com/ryurim0109/TIL/blob/main/algorithm/trapping-rain-water.js)
