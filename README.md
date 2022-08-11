@@ -8,6 +8,7 @@
 - [웹 브라우저 공격](https://github.com/ryurim0109/TIL/blob/main/CS/browserAttack.md)
 - [RESTful](https://github.com/ryurim0109/TIL/blob/main/CS/Restful.md)
 - [CSR vs SSR](https://github.com/ryurim0109/TIL/blob/main/CS/CSR_vs_SSR.md)
+- [CORS] (https://github.com/ryurim0109/TIL/blob/main/CS/cors.md)
 
 ## Javascript
 
