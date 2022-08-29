@@ -79,4 +79,5 @@
 - [신고결과받기](https://github.com/ryurim0109/TIL/blob/main/algorithm/report_result.js)
 - [피보나치수](https://github.com/ryurim0109/TIL/blob/main/algorithm/fibonacci.js)
 - [신규 아이디 추천](https://github.com/ryurim0109/TIL/blob/main/algorithm/newId.js)
-- [trapping-rain-water](https://github.com/ryurim0109/TIL/blob/main/algorithm/trapping-rain-water.js)
+- [trappin-rain-water](https://github.com/ryurim0109/TIL/blob/main/algorithm/trapping-rain-water.js)
+- [키패드 누르기](https://github.com/ryurim0109/TIL/blob/main/algorithm/press.js)
