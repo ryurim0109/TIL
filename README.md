@@ -81,3 +81,5 @@
 - [신규 아이디 추천](https://github.com/ryurim0109/TIL/blob/main/algorithm/newId.js)
 - [trappin-rain-water](https://github.com/ryurim0109/TIL/blob/main/algorithm/trapping-rain-water.js)
 - [키패드 누르기](https://github.com/ryurim0109/TIL/blob/main/algorithm/press.js)
+- [명령 프롬프트](https://github.com/ryurim0109/TIL/blob/main/algorithm/1032.js)
+- [팰린드롬수](https://github.com/ryurim0109/TIL/blob/main/algorithm/1259.js)
