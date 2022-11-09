@@ -16,7 +16,7 @@ for (let i = 0; i < inputArr[0].length; i++) {
   for (let j = 0; j < inputArr.length; j++) {
     if (temp_1 !== inputArr[j][i]) {
       answer.push("?");
-      break;
+      break; // if문 탈출
     }
     num++; //arr의 길이와 같아지면, answer에 push해주기 위함
   }
