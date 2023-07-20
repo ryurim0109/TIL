@@ -83,3 +83,4 @@
 - [키패드 누르기](https://github.com/ryurim0109/TIL/blob/main/algorithm/press.js)
 - [명령 프롬프트](https://github.com/ryurim0109/TIL/blob/main/algorithm/1032.js)
 - [팰린드롬수](https://github.com/ryurim0109/TIL/blob/main/algorithm/1259.js)
+- [달리기 경주](https://github.com/ryurim0109/TIL/blob/main/algorithm/a_running_race.js)
