@@ -84,3 +84,4 @@
 - [명령 프롬프트](https://github.com/ryurim0109/TIL/blob/main/algorithm/1032.js)
 - [팰린드롬수](https://github.com/ryurim0109/TIL/blob/main/algorithm/1259.js)
 - [달리기 경주](https://github.com/ryurim0109/TIL/blob/main/algorithm/a_running_race.js)
+- [추억 점수](https://github.com/ryurim0109/TIL/blob/main/algorithm/memory_score.js)
